@@ -1,6 +1,6 @@
 ##aplicacion del clima en node 
 
-recueda actualizar las api keys de ambas apis utilizadas
+recueda actualizar las api keys de ambas apis utilizadas https://rapidapi.com/dev132/api/city-geo-location-lookup https://openweathermap.org/
 
 para ejecutar se deben instalar las librerias
 
